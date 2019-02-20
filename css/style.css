@@ -1,0 +1,204 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+* {
+    margin: 0;
+}
+
+.main {
+    background: linear-gradient(-45deg, #141414, #262626);
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 84px;
+    overflow: hidden;
+}
+
+.header {
+    height: 13vh;
+    position: relative;
+}
+
+.logo p {
+    margin-left: 14px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+#logo {
+    width: 18px;
+    height: 18px;
+
+}
+
+.menu {
+    margin-left: 14%;
+}
+
+.menu_item {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 300;
+    margin-right: 7.5%;
+}
+
+.profile {
+    width: 13%;
+    margin-left: auto;
+}
+
+.leonardo {
+    border: 1px solid #3e3d3d;
+    border-radius: 50%;
+    padding: 6px 6px 3px 6px;
+}
+
+.text {
+    margin-left: 18%;
+}
+
+h6 {
+    font-size: 8px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+h5 {
+    font-size: 10px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.music {
+    margin-left: 25px;
+    width: 28px;
+    height: 28px;
+    background: #232323;
+    border-radius: 50%;
+}
+
+.play {
+    background: url(../img/play.png);
+    background-repeat: no-repeat;
+    width: 6px;
+    height: 6px;
+    margin-left: 15px;
+}
+
+.offer {
+    box-sizing: border-box;
+    width: 50%;
+    height: 860px;
+    padding-left: 6.3%;
+    padding-top: 12%;
+    background-color: #141313;
+}
+
+.btns {
+    margin-top: 40px;
+
+}
+
+.choise {
+    background: transparent;
+    width: 148px;
+    height: 27px;
+    border-radius: 14px;
+    font-size: 9px;
+    border: 1px solid #68f3a6;
+    color: #68f3a6;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-right: 22px;
+}
+
+.btn {
+    margin-top: 63px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    width: 185px;
+    height: 58px;
+    box-shadow: 0 9px 57px rgba(233, 48, 161, 0.25);
+    border-radius: 29px;
+    background-color: #e930a1;
+    border: none;
+    cursor: pointer;
+}
+
+.slider {
+    position: relative;
+    width: 50%;
+    height: 860px;
+    background: rgba(0, 0, 0, 0.07);
+}
+
+.elips {
+    top: 252px;
+    left: 20%;
+    z-index: 1;
+    width: 74%;
+    max-width: 592px;
+}
+
+.plus {
+    top: 44%;
+    left: 22%;
+    z-index: 2;
+    width: 8.37%;
+    max-width: 67px;
+}
+
+.lines-dot {
+    top: 70%;
+    left: -5%;
+    z-index: 2;
+    width: 21%;
+    max-width: 168px;
+}
+
+.line-dot-circle {
+    top: 27%;
+    left: -12.5%;
+    z-index: 2;
+    width: 32.5%;
+    max-width: 260px;
+}
+
+.tringles {
+    top: 21%;
+    right: 12.5%;
+    z-index: 2;
+    width: 20.1%;
+    max-width: 161px;
+}
+
+.rag-man {
+    left: 8.7%;
+    bottom: 0;
+    z-index: 3;
+    width: 87%;
+    max-width: 703px;
+}
+
+.plus-dots {
+    right: 0;
+    bottom: 0;
+    z-index: 4;
+    width: 36.1%;
+    max-width: 289px;
+}
+
+.light-blue, .light-gold {
+    width: 148.75%;
+    top: -35px;
+    left: -6%;
+}
+
+

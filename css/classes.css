@@ -1,0 +1,52 @@
+.df {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+}
+
+.jcc {
+    justify-content: center;
+}
+
+.aic {
+    align-items: center;
+}
+
+.fdc {
+    flex-direction: column;
+}
+
+.container {
+    width: 90vw;
+}
+
+a:hover {
+    color: rgb(201, 208, 238);
+}
+
+h2 {
+    font-size: 81px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 58px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+button:focus {
+    outline: none;
+}
+
+.abs {
+    position: absolute;
+}
+
+/*
+                    <a class="prev" onclick="plusSlide(-1)">&#11114;</a>
+                    <a class="next" onclick="plusSlide(1)">&#10143;</a>
+                    */
