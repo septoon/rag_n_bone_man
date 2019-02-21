@@ -22,7 +22,7 @@
     width: 90vw;
 }
 
-a:hover {
+.menu_item:hover {
     color: rgb(201, 208, 238);
 }
 
